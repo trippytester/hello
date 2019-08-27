@@ -10,6 +10,7 @@ public class Demo {
 	{
 		Reporter.log("hey",true);
 		Reporter.log("yeyyyyyyyyyyy",true);
+		Reporter.log("ulalala",true);
 	}
 
 }
