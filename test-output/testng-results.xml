@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[hey]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="45" started-at="2019-08-27T11:41:30Z" finished-at="2019-08-27T11:41:30Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="45" started-at="2019-08-27T11:41:30Z" finished-at="2019-08-27T11:41:30Z">
+      <class name="mavendemofinal.Demo">
+        <test-method status="PASS" signature="get2()[pri:0, instance:mavendemofinal.Demo@51081592]" name="get2" duration-ms="14" started-at="2019-08-27T17:11:30Z" finished-at="2019-08-27T17:11:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[hey]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- get2 -->
+      </class> <!-- mavendemofinal.Demo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
