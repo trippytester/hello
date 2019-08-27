@@ -9,6 +9,7 @@ public class Demo {
 	public void get2()
 	{
 		Reporter.log("hey",true);
+		Reporter.log("yeyyyyyyyyyyy",true);
 	}
 
 }
